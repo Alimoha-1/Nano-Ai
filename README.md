@@ -38,6 +38,15 @@ npm run dev
 # ⚠️ Note: 
 ## *Make sure to use your API key. Keep it secret and do not share it publicly!* ##
 
+# --> Use Api key >Ai.py > line 5
+```js
+client = genai.Client(api_key="Use Your Api")
+```
+LIKE THIS
+```js
+client = genai.Client(api_key="ABCDEF-ABWDA-DADFE-FSFE")
+```
+
 
 ## License
 
