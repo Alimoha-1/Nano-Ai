@@ -2,7 +2,7 @@ import os
 from google import genai
 
 # Ku beddel API_KEY_GAAGA hoose markaad rabto inaad run ahaantii isticmaasho
-client = genai.Client(api_key="AIzaSyDJ-_TASX5ajsF9Qiz87ZkWg7fOwIt_TEM")
+client = genai.Client(api_key="Please Enter you API key")
 
 conversation_memory = []
 
